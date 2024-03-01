@@ -1,0 +1,9 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Û±Ã˚˝ˇˇˇˇ
+
+java:S3008"iRename this field "IS_THREADLOCALRANDOM_AVAILABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πÏò›
+>	java:S108")Either remove or fill this block of code.(˝‡—Œ
+^
+java:S5361A"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Øçÿè
+^
+java:S5361`"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Øçÿè

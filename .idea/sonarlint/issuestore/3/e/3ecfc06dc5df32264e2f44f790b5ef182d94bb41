@@ -1,0 +1,40 @@
+
+\	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(á÷—
+a	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(ªû¦Áÿÿÿÿÿ
+f
+java:S1192"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 6 times.(·×†·úÿÿÿÿ
+g	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ“¹
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ“¹
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ“¹
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¡¹ûÿÿÿÿ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªû¦Áÿÿÿÿÿ
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÉÛ
+|
+java:S1488Ÿ"eImmediately return this expression instead of assigning it to the temporary variable "week_day_name".(Ìğ“¹
+|
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "week_day_name".(Ìğ“¹
+|
+java:S1488›"eImmediately return this expression instead of assigning it to the temporary variable "week_day_name".(Ìğ“¹
+S
+java:S4973½"<Strings and Boxed types should be compared using "equals()".(´Éï¬
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³¸«©ùÿÿÿÿ
+@
+java:S2885"+Make "datetimeFormat" an instance variable.(ÍäĞR
+B
+java:S2885"'Make "dateFormat" an instance variable.(·×†·úÿÿÿÿ
+C	java:S108t")Either remove or fill this block of code.(õŠ†üÿÿÿÿ
+D	java:S108Œ")Either remove or fill this block of code.(õŠ†üÿÿÿÿ
+R	java:S125å"<This block of commented-out lines of code should be removed.(ßø›
+ˆ
+java:S1130˜"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(³Â—Á
+A
+java:S1197š"*Move the array designators [] to the type.(’³™œ
+}
+java:S2178µ"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ñ©÷
+]
+java:S1126Ô"AReplace this if-then-else statement by a single return statement.(äğ·¾ıÿÿÿÿ
+A
+java:S1197Š"*Move the array designators [] to the type.(á™’ì
+A
+java:S1197˜"*Move the array designators [] to the type.(’³™œ
+i	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¡¹ûÿÿÿÿ

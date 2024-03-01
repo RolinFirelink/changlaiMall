@@ -1,0 +1,10 @@
+
+t
+java:S1192h"^Define a constant instead of duplicating this literal "\\resource\\ueditor\\upload\\" 6 times.(ÏÕç›
+u
+java:S1192G"`Define a constant instead of duplicating this literal "redirect:/item/findBySql.action" 3 times.(ª—
+
+h
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¯ÂŒŞ
+M
+java:S1128"7Remove this unused import 'com.github.pagehelper.Page'.(ó˜”Û
